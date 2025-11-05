@@ -1,1 +1,1 @@
-##  AI-powered-Reply-Generator-Extension Project 
+##  AI-powered-Email-Reply-Generator-Extension Project 
